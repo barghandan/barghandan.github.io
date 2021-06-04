@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.barghandan.com/about/</loc>
+    <loc>https://barghandan.com/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.barghandan.com/dashboards/</loc>
+    <loc>https://barghandan.com/dashboards/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.barghandan.com/resume/</loc>
+    <loc>https://barghandan.com/resume/</loc>
   </url>
   
   <url>
-    <loc>https://www.barghandan.com/</loc>
+    <loc>https://barghandan.com/</loc>
   </url>
   
 </urlset>
