@@ -40,5 +40,14 @@ About the dataset The dataset contains 4 tables, in CSV format:
  The Follows table contains information about who is following who in the community. it consist of a simple 3 column structure with the first column being the &amp;quot;user_id&amp;quot; of follower, second column is &amp;quot;user_id&amp;quot; of the following person and the last column shows the &amp;quot;date&amp;quot; at which the user started following.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://barghandan.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://barghandan.com/about/</guid>
+      <description>About Me Hi There, I&amp;rsquo;m Vahid Barghandan, a lifelong learner and data enthusiat currently working as business intelligence analyst. I am particularly interested in Microsoft BI technologies and has made several BI solutions using them. You can reach out to me on Linkedin or shoot me an email.</description>
+    </item>
+    
   </channel>
 </rss>
