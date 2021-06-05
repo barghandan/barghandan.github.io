@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://barghandan.com/categories/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://barghandan.com/categories/dashboards/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://barghandan.com/dashboards/</loc>
     <lastmod>2021-05-04T00:00:00+00:00</lastmod>
   </url>
@@ -33,15 +43,11 @@
   </url>
   
   <url>
-    <loc>https://barghandan.com/about/</loc>
+    <loc>https://barghandan.com/series/</loc>
   </url>
   
   <url>
-    <loc>https://barghandan.com/dashboards/</loc>
-  </url>
-  
-  <url>
-    <loc>https://barghandan.com/resume/</loc>
+    <loc>https://barghandan.com/tags/</loc>
   </url>
   
 </urlset>
