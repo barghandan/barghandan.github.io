@@ -6,6 +6,39 @@
     <description>Recent content on Vahid Barghandan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://barghandan.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://barghandan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maven Analytics Toys Challenge</title>
+      <link>https://barghandan.com/dashboards/maven-analytics-toys-challenge/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://barghandan.com/dashboards/maven-analytics-toys-challenge/</guid>
+      <description>This dashboard was developed and designed as part of #maventoyschallenge. Maven analytics provided sales &amp;amp; inventory data from Maven Toys, &amp;quot;a fictitious chain of small toy stores in Mexico&amp;quot;.
+About the dataset dataset of Maven Toys contains 4 tables, in CSV format:
+ The Products table contains the 35 products sold at Maven Toys (each record represents one product), with fields containing details about the product category, cost, and retail price The Stores table contains the 50 Maven Toys store locations (each record represents one store), with fields containing details about the store location, type, and date it opened The Sales table contains the units sold in over 800,000 sales transactions from January 2017 to October 2018 (each record represents the purchase of a specific product at a specific store on a specific date) The Inventory table contains over 1,500 records that represent the stock on hand of each product in each store at the current point in time (Oct 1, 2018)  Files You can download the dataset from here</description>
+    </item>
+    
+    <item>
+      <title>The Northwind Traders Dataset</title>
+      <link>https://barghandan.com/dashboards/sales-report/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://barghandan.com/dashboards/sales-report/</guid>
+      <description>The following dashboard is designed using the northwind dataset.
+About the dataset  The Northwind Traders dataset is a toy database created by Microsoft for educational purposes. This fictitious company sells specialty foods wholesale to retail outlets worldwide. The database contains data for 801 orders placed by 85 different customers over the course of 23 months, complete with supplementary information on customers, employees, and suppliers. For this study, the goal was to extract insights from the data which could facilitate more revenue for the company.</description>
+    </item>
+    
+    <item>
+      <title>Komo Dataset Analysis</title>
+      <link>https://barghandan.com/dashboards/komo/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://barghandan.com/dashboards/komo/</guid>
+      <description>The following dashboard shows different aspects of an online eCommerce community.
+About the dataset The dataset contains 4 tables, in CSV format:
+ The Follows table contains information about who is following who in the community. it consist of a simple 3 column structure with the first column being the &amp;quot;user_id&amp;quot; of follower, second column is &amp;quot;user_id&amp;quot; of the following person and the last column shows the &amp;quot;date&amp;quot; at which the user started following.</description>
+    </item>
+    
   </channel>
 </rss>

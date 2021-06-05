@@ -3,21 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://barghandan.com/dashboards/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://barghandan.com/dashboards/maven-analytics-toys-challenge/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://barghandan.com/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://barghandan.com/dashboards/sales-report/</loc>
+    <lastmod>2020-11-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://barghandan.com/dashboards/komo/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://barghandan.com/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://barghandan.com/dashboards/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://barghandan.com/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>https://barghandan.com/</loc>
   </url>
   
 </urlset>
